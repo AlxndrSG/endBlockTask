@@ -1,0 +1,15 @@
+D:\IT обучение\Знакомство с языками программирования\EndBlockHomeWork\endBlockTask\bin\Debug\net6.0\endBlockTask.exe
+D:\IT обучение\Знакомство с языками программирования\EndBlockHomeWork\endBlockTask\bin\Debug\net6.0\endBlockTask.deps.json
+D:\IT обучение\Знакомство с языками программирования\EndBlockHomeWork\endBlockTask\bin\Debug\net6.0\endBlockTask.runtimeconfig.json
+D:\IT обучение\Знакомство с языками программирования\EndBlockHomeWork\endBlockTask\bin\Debug\net6.0\endBlockTask.dll
+D:\IT обучение\Знакомство с языками программирования\EndBlockHomeWork\endBlockTask\bin\Debug\net6.0\endBlockTask.pdb
+D:\IT обучение\Знакомство с языками программирования\EndBlockHomeWork\endBlockTask\obj\Debug\net6.0\endBlockTask.csproj.AssemblyReference.cache
+D:\IT обучение\Знакомство с языками программирования\EndBlockHomeWork\endBlockTask\obj\Debug\net6.0\endBlockTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT обучение\Знакомство с языками программирования\EndBlockHomeWork\endBlockTask\obj\Debug\net6.0\endBlockTask.AssemblyInfoInputs.cache
+D:\IT обучение\Знакомство с языками программирования\EndBlockHomeWork\endBlockTask\obj\Debug\net6.0\endBlockTask.AssemblyInfo.cs
+D:\IT обучение\Знакомство с языками программирования\EndBlockHomeWork\endBlockTask\obj\Debug\net6.0\endBlockTask.csproj.CoreCompileInputs.cache
+D:\IT обучение\Знакомство с языками программирования\EndBlockHomeWork\endBlockTask\obj\Debug\net6.0\endBlockTask.dll
+D:\IT обучение\Знакомство с языками программирования\EndBlockHomeWork\endBlockTask\obj\Debug\net6.0\refint\endBlockTask.dll
+D:\IT обучение\Знакомство с языками программирования\EndBlockHomeWork\endBlockTask\obj\Debug\net6.0\endBlockTask.pdb
+D:\IT обучение\Знакомство с языками программирования\EndBlockHomeWork\endBlockTask\obj\Debug\net6.0\endBlockTask.genruntimeconfig.cache
+D:\IT обучение\Знакомство с языками программирования\EndBlockHomeWork\endBlockTask\obj\Debug\net6.0\ref\endBlockTask.dll
